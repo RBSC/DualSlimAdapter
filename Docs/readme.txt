@@ -20,6 +20,28 @@ The video of DualSlim setup in the Yamaha AX-350 computer can be seen here:
 https://www.youtube.com/watch?v=o-ZJfZNqkJk
 
 
+Parts
+-----
+
+Beside the circuit board you will need the following:
+
+ - 4-pin male floppy drive power connector (angled pins)
+ - 34-pin dual-row angled pin header with 2.5mm spacing
+ - 26-pin FPC ribbon flexible flat cable, 1mm spacing, 100mm long, reverse type!
+ - Two 26-pin FPC/FFC connectors with 1.0mm spacing
+
+These parts are available here (at the time of writing):
+https://www.aliexpress.com/item/1005001582299405.html
+https://www.aliexpress.com/item/4000373321138.html
+https://www.aliexpress.com/item/1005001789411803.html
+
+The slim Gotek drive can be bought from here:
+https://www.aliexpress.com/item/1005004265960945.html
+
+All parts are mounted on the top of the board. When installing the board into a computer, make sure to isolate the back side of
+the circuit board.
+
+
 IMPORTANT!
 ----------
 
